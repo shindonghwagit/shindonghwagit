@@ -71,7 +71,7 @@
 ## 🌷 Contact
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:ek65110112@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/shindonghwagit">
