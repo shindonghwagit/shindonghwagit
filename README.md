@@ -17,7 +17,6 @@
 🛠️  최근 작업 : Carbon Diet App, GitHub Country Filter
 🔬  소속      : AI CS Lab
 🎀  목표      : 풀스택 + AI 를 아우르는 개발자!
-☕  좌우명    : 꾸준히, 즐겁게, 성장하기
 ```
 
 ---
@@ -71,7 +70,7 @@
 ## 🌷 Contact
 
 <p align="center">
-  <a href="mailto:ek65110112@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&to=ek65110112@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/shindonghwagit">
