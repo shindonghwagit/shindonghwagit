@@ -15,27 +15,17 @@
 > _"Once, there was a developer wandering between Frontend, Backend, and AI..."_
 
 ```yaml
-name     : Donghwa Shin
+name     : 신동화
 role     : Frontend · Backend · AI / Deep Learning
 lab      : AI CS Lab
 learning : Algorithms · Deep Learning · Networks
-motto    : "Steady, joyful, always growing"
+motto    : "즐겁게 성장하자"
 ```
 
 <!-- ═══════════════════════ Tech Stack ═══════════════════════ -->
 ## Tech Stack
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+### AI / Machine Learning
 
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -43,12 +33,25 @@ motto    : "Steady, joyful, always growing"
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
+### Development
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+### Infrastructure
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-
-</div>
 
 <!-- ═══════════════════════ Currently Learning ═══════════════════════ -->
 ## Currently Learning
@@ -63,12 +66,7 @@ motto    : "Steady, joyful, always growing"
 <!-- ═══════════════════════ Projects ═══════════════════════ -->
 ## Projects
 
-- [Carbon Diet App](https://github.com/shindonghwagit/carbon_diet_app)
-- [GitHub Country Filter](https://github.com/shindonghwagit/Github-Country-Filter)
-- [CVD Lens](https://github.com/shindonghwagit/CVD_Lens)
-- [TouchDesign Fullstack](https://github.com/shindonghwagit/touchdesign-fullstack)
-- [Local Food Market](https://github.com/shindonghwagit/LocalFoodMarket)
-- [Portfolio](https://github.com/shindonghwagit/shindonghwa-portfolio)
+[Projects](https://github.com/shindonghwagit?tab=repositories)
 
 <!-- ═══════════════════════ Stats ═══════════════════════ -->
 ## Stats
