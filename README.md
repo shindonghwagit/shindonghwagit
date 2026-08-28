@@ -9,8 +9,8 @@
 
 <br>
 
-<!-- ═══════════════════════ Prologue ═══════════════════════ -->
-## Prologue
+<!-- ═══════════════════════ About ═══════════════════════ -->
+## About Me
 
 > _"Once, there was a developer wandering between Frontend, Backend, and AI..."_
 
@@ -22,51 +22,36 @@ learning : Algorithms · Deep Learning · Networks
 motto    : "Steady, joyful, always growing"
 ```
 
-<!-- ═══════════════════════ Chapter 1 ═══════════════════════ -->
-## Chapter 1 · Tech Stack
+<!-- ═══════════════════════ Tech Stack ═══════════════════════ -->
+## Tech Stack
 
-<table align="center">
-<tr>
-<td align="center"><b>Mobile · Frontend</b></td>
-<td>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>Backend</b></td>
-<td>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>AI · Data</b></td>
-<td>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>Tools</b></td>
-<td>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-</td>
-</tr>
-</table>
+<div align="center">
 
-<!-- ═══════════════════════ Chapter 2 ═══════════════════════ -->
-## Chapter 2 · Currently Learning
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+
+</div>
+
+<!-- ═══════════════════════ Currently Learning ═══════════════════════ -->
+## Currently Learning
 
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -75,43 +60,32 @@ motto    : "Steady, joyful, always growing"
   <img src="https://img.shields.io/badge/Network-B49FDC?style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
-<!-- ═══════════════════════ Chapter 3 ═══════════════════════ -->
-## Chapter 3 · Projects
+<!-- ═══════════════════════ Projects ═══════════════════════ -->
+## Projects
+
+- [Carbon Diet App](https://github.com/shindonghwagit/carbon_diet_app)
+- [GitHub Country Filter](https://github.com/shindonghwagit/Github-Country-Filter)
+- [CVD Lens](https://github.com/shindonghwagit/CVD_Lens)
+- [TouchDesign Fullstack](https://github.com/shindonghwagit/touchdesign-fullstack)
+- [Local Food Market](https://github.com/shindonghwagit/LocalFoodMarket)
+- [Portfolio](https://github.com/shindonghwagit/shindonghwa-portfolio)
+
+<!-- ═══════════════════════ Stats ═══════════════════════ -->
+## Stats
 
 <div align="center">
 
-<a href="https://github.com/shindonghwagit/carbon_diet_app">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shindonghwagit&repo=carbon_diet_app&hide_border=true&theme=tokyonight&title_color=9B7EDE&icon_color=C9A0DC" />
-</a>
-<a href="https://github.com/shindonghwagit/Github-Country-Filter">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shindonghwagit&repo=Github-Country-Filter&hide_border=true&theme=tokyonight&title_color=9B7EDE&icon_color=C9A0DC" />
-</a>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shindonghwagit&show_icons=true&count_private=true&hide_border=true&theme=radical" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shindonghwagit&layout=compact&hide_border=true&theme=radical" />
 
-<a href="https://github.com/shindonghwagit/CVD_Lens">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shindonghwagit&repo=CVD_Lens&hide_border=true&theme=tokyonight&title_color=9B7EDE&icon_color=C9A0DC" />
-</a>
-<a href="https://github.com/shindonghwagit/touchdesign-fullstack">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shindonghwagit&repo=touchdesign-fullstack&hide_border=true&theme=tokyonight&title_color=9B7EDE&icon_color=C9A0DC" />
-</a>
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=shindonghwagit&theme=radical&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=shindonghwagit&theme=radical&no-frame=true&margin-w=8&column=7" width="98%" />
 
 </div>
 
-<!-- ═══════════════════════ Adventure Log ═══════════════════════ -->
-## Adventure Log
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shindonghwagit&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=9B7EDE&icon_color=C9A0DC" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shindonghwagit&layout=compact&hide_border=true&theme=tokyonight&title_color=9B7EDE" />
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=shindonghwagit&theme=tokyonight&hide_border=true&background=1A1B27&stroke=9B7EDE&ring=C9A0DC&fire=C9A0DC&currStreakLabel=9B7EDE" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=shindonghwagit&theme=algolia&no-frame=true&margin-w=8&column=7" width="98%" />
-
-</div>
-
-<!-- ═══════════════════════ Epilogue ═══════════════════════ -->
-## Epilogue
+<!-- ═══════════════════════ Contact ═══════════════════════ -->
+## Contact
 
 <div align="center">
 
